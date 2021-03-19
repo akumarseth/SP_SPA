@@ -1,2 +1,2 @@
 App|Deploy Date|Valid Till|IsActive
-hpsbihar|19 March 2021|22 March 2021|false
+hpsbihar|19 March 2021|22 March 2021|true
